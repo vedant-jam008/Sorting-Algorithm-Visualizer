@@ -1,4 +1,4 @@
-# Sorting-Algorithm-Visualizer
+# SORTING ALGORITHM VISUALIZER
 # This shows the basic animation for various sorting Algorithms using JavaScript, CSS and HTML.
 
 ![Screenshot 2020-11-03 at 11 39 12 PM](https://user-images.githubusercontent.com/56688354/98024075-c9a00080-1e2d-11eb-8934-7d8bee1c711a.png)
