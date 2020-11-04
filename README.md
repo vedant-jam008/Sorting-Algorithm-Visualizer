@@ -2,7 +2,8 @@
 # This shows an interesting interactive animation of various Sorting Algorithms using JavaScript, CSS, and HTML. 
 # This enhances and makes "Sorting Algorithms" easier and more understandable
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/56688354/98081161-9c3e6b80-1e9c-11eb-9088-f5cb831a818a.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56688354/98081161-9c3e6b80-1e9c-11eb-9088-f5cb831a818a.gif)![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/56688354/98081404-07883d80-1e9d-11eb-9a3c-459561350da6.gif)
+
 
 
 # BUBBLE SORT:
