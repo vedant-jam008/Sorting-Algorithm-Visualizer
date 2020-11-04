@@ -2,8 +2,9 @@
 # This shows an interesting interactive animation of various Sorting Algorithms using JavaScript, CSS, and HTML. 
 # This enhances and makes "Sorting Algorithms" easier and more understandable
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/56688354/98081161-9c3e6b80-1e9c-11eb-9088-f5cb831a818a.gif)
-                                  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/56688354/98081404-07883d80-1e9d-11eb-9a3c-459561350da6.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/56688354/98081833-cfcdc580-1e9d-11eb-8951-dd8f1882e596.gif)
+
+                                  
 
 # BUBBLE SORT:
 # Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
