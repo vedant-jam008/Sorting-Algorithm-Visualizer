@@ -1,6 +1,6 @@
 # SORTING ALGORITHM VISUALIZER
-# This shows an interesting interactive animation of various Sorting Algorithms using JavaScript, CSS, and HTML. 
-# This enhances and makes "Sorting Algorithms" easier and more understandable
+ This shows an interesting interactive animation of various Sorting Algorithms using JavaScript, CSS, and HTML. 
+ This enhances and makes "Sorting Algorithms" easier and more understandable
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/56688354/98081833-cfcdc580-1e9d-11eb-8951-dd8f1882e596.gif)
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/56688354/98082217-5f737400-1e9e-11eb-827d-182257bb4b38.gif)
