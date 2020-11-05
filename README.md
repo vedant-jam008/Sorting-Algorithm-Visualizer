@@ -40,10 +40,10 @@
 
 ![Screenshot 2020-11-03 at 11 42 33 PM](https://user-images.githubusercontent.com/56688354/98024391-4206c180-1e2e-11eb-9977-6d099040a177.png)
 
-# The algorithm maintains two subarrays in a given array.
+ The algorithm maintains two subarrays in a given array.
 
-    1) The subarray which is already sorted.
-    2) Remaining subarray which is unsorted.
+  1) The subarray which is already sorted.
+  2) Remaining subarray which is unsorted.
 
  In every iteration of selection sort, the minimum element (considering ascending order) from the unsorted subarray is picked and moved to the sorted subarray.
 
